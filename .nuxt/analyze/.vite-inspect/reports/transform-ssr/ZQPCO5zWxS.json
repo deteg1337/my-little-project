@@ -1,0 +1,17 @@
+{
+  "resolvedId": "virtual:nuxt:/Users/dennistegelaers/Nextcloud/Documents/projects/my-little-project/.nuxt/css.mjs",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1702313687031,
+      "end": 1702313687031
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1702313687031,
+      "end": 1702313687031,
+      "order": "normal"
+    }
+  ]
+}
