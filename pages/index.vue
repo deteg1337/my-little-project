@@ -6,6 +6,7 @@ definePageMeta({
 
 <template>
   <CategoryBar></CategoryBar>
+  <HSpacer></HSpacer>
   <div class="flex flex-col">
     <div class="flex flex-row justify-between">
       <v-spacer></v-spacer>

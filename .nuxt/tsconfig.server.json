@@ -70,7 +70,10 @@
         "./color-mode-options"
       ],
       "#tailwind-config": [
-        "./tailwind"
+        "./tailwind.config"
+      ],
+      "#tailwind-config/*": [
+        "./tailwind.config/*"
       ]
     }
   },
@@ -88,7 +91,6 @@
   ],
   "exclude": [
     "../node_modules",
-    "../../../../../node_modules",
     "../node_modules/nuxt/node_modules",
     "../dist"
   ]
